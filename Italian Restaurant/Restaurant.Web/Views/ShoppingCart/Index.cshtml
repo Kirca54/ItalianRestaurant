@@ -1,0 +1,61 @@
+﻿@model Restaurant.Domain.DTO.ShoppingCartDto
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+
+
+    <div class="row m-4">
+        <a asp-controller="ShoppingCart" asp-action="Order" class="btn btn-info">Order Now</a>
+    </div>
+
+    <div class="row m-4">
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Food Name</th>
+                    <th scope="col">Quantity</th>
+                    <th scope="col">FoodPrice</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Foods.Count == 0)
+                {
+                    <tr>
+                        <td colspan="5">No active Foods</td>
+                    </tr>
+                }
+                else
+                {
+                    @for (int i = 0; i < Model.Foods.Count; i++)
+                    {
+                        var item = Model.Foods[i];
+
+                        <tr>
+                            <th scope="row">@(i + 1)</th>
+                            <td>@item.Food.Name</td>
+                            <td>@item.Quantity</td>
+                            <td>@item.Food.Price</td>
+                            <td><a asp-controller="ShoppingCart" asp-action="DeleteFromShoppingCart" asp-route-id="@item.FoodId" class="btn btn-danger">Delete From ShoppingCart</a></td>
+                        </tr>
+                    }
+                }
+            </tbody>
+            <tfoot class="thead-dark">
+                <tr>
+                    <th scope="col">TotalPrice:</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col">@Model.TotalPrice</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+</div> 

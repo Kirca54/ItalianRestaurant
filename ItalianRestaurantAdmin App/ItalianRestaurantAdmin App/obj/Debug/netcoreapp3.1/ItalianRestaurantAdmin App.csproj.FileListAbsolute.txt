@@ -1,0 +1,56 @@
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.csprojAssemblyReference.cache
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.AssemblyInfoInputs.cache
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.AssemblyInfo.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.csproj.CoreCompileInputs.cache
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.MvcApplicationPartsAssemblyInfo.cache
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.RazorAssemblyInfo.cache
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.RazorAssemblyInfo.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.exe
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.deps.json
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.runtimeconfig.json
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.runtimeconfig.dev.json
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.pdb
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.Views.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.Views.pdb
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\staticwebassets\ItalianRestaurantAdmin App.StaticWebAssets.Manifest.cache
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\staticwebassets\ItalianRestaurantAdmin App.StaticWebAssets.xml
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\scopedcss\bundle\ItalianRestaurantAdmin App.styles.css
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.TagHelpers.input.cache
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.TagHelpers.output.cache
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.RazorCoreGenerate.cache
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.RazorTargetAssemblyInfo.cache
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.RazorTargetAssemblyInfo.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.Views.pdb
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.csproj.CopyComplete
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.pdb
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\ItalianRestaurantAdmin App.genruntimeconfig.cache
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\IS\Proekt\ItalianRestaurantAdmin App\ItalianRestaurantAdmin App\bin\Debug\netcoreapp3.1\ExcelDataReader.dll

@@ -1,0 +1,64 @@
+﻿@model List<Restaurant.Domain.Domain.Food>
+
+@{
+    ViewData["Title"] = "Pizzas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-12" style="background-color: black; height: 1px;"></div>
+    </div>
+
+    <div class="row">
+        <div class="col-4" style="background-color: green; height: 100px;"></div>
+        <div class="col-4" style="background-color: white; height: 100px"></div>
+        <div class="col-4" style="background-color: red; height: 100px"></div>
+    </div>
+    
+
+
+        <div class="m-3">
+            <a class="btn btn-success" asp-controller="Foods" asp-action="Create">Add new Product</a>
+        </div>
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            var item = Model[i];
+            if (item.Type.ToString().Equals("pizza"))
+            {
+                if (i % 3 == 0)
+                {
+                    @:<div class="row">
+                    }
+
+
+                    <div class="col-md-3 m-4">
+                        <div class="card" style="width: 18rem; height: 30rem;">
+                            <img class="card-img-top" src="@item.Image" style="height: 50%" alt="Image for product!" />
+
+                            <div class="card-body">
+                                <h3 class="card-title">@item.Name</h3>
+                                <p class="card-text">@item.Description</p>
+
+                                <h6>Price: @item.Price</h6>
+                            </div>
+
+                            <div class="card-footer">
+
+                                <a asp-controller="Foods" asp-action="AddProductToCard" asp-route-id="@item.Id" class="btn btn-info">Add to Card</a>
+                                <a asp-controller="Foods" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Edit</a>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    if (i % 3 == 2)
+                    {
+                    @:</div>
+                }
+            }
+        }
+
+    </div>
